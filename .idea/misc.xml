@@ -6,11 +6,13 @@
         <entry key="..\:/Users/GriffinKoh/Downloads/mad22-practical-6---storage-griffinkoh/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/GriffinKoh/Downloads/mad22-practical-6---storage-griffinkoh/app/src/main/res/layout/activity_message_group.xml" value="0.1308876811594203" />
         <entry key="..\:/Users/GriffinKoh/Downloads/mad22-practical-6---storage-griffinkoh/app/src/main/res/layout/fragment_group1.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/GriffinKoh/Downloads/mad22-practical-6---storage-griffinkoh/app/src/main/res/layout/fragment_group2.xml" value="0.11865942028985507" />
+        <entry key="..\:/Users/GriffinKoh/Downloads/mad22-practical-6---storage-griffinkoh/app/src/main/res/layout/login_page.xml" value="0.22" />
         <entry key="..\:/Users/GriffinKoh/Downloads/mad22-practical-6---storage-griffinkoh/app/src/main/res/layout/user_layout_1.xml" value="0.1308876811594203" />
         <entry key="..\:/Users/GriffinKoh/Downloads/mad22-practical-6---storage-griffinkoh/app/src/main/res/layout/user_layout_2.xml" value="0.1308876811594203" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>

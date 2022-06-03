@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277977918355",
+    "project_id": "storage-f1ea5",
+    "storage_bucket": "storage-f1ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277977918355:android:8c65fd62c4b987da119666",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.MADPractical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277977918355-eklugumhu8duv70n9ets5oskij26k1l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDST2EGrL81zNl3-RLTAJX5TBGYg-FTwGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277977918355-eklugumhu8duv70n9ets5oskij26k1l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
